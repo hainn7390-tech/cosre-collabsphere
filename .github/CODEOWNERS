@@ -1,5 +1,5 @@
-/docs/ @po @qa
-/apps/backend/ @backend @architect
-/apps/frontend/ @frontend
-/infra/ @devops
-/.github/ @devops
+/docs/ @hainn7390-tech
+/apps/backend/ @phonglhd0197 @khanglm1537-sketch
+/apps/frontend/ @nguyenhoangkhanhnhu772-cpu @yenlth5641
+/infra/ @hainn7390-tech
+/.github/ @hainn7390-tech
