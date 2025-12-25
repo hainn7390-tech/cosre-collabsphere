@@ -1,0 +1,5 @@
+/docs/ @po @qa
+/apps/backend/ @backend @architect
+/apps/frontend/ @frontend
+/infra/ @devops
+/.github/ @devops
